@@ -1,1 +1,2 @@
 # Neural-Networks-and-Deep-Learning
+As you probably know, deep learning has already transformed traditional internet businesses like web search and advertising. But deep learning is also enabling brand new products and businesses and ways of helping people to be created. Everything ranging from better healthcare, where deep learning is getting really good at reading X-ray images to delivering personalized education, to precision agriculture, to even self driving cars and many others.
